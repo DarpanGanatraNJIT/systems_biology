@@ -1,0 +1,23 @@
+#+TITLE: MAPK Signal Pathways
+#+AUTHOR: Darpan Ganatra
+#+OPTIONS: H:2 toc:t num:t
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+BEAMER_THEME: Hannover
+#+BEAMER_COLOR_THEME: default
+#+LATEX_HEADER: \mode<beamer>{\beamertemplatenavigationsymbolsempty}
+#+COLUMNS: %45ITEM %10BEAMER_ENV(Env) %10BEAMER_ACT(Act) %4BEAMER_COL(Col)
+
+* Introduction
+** Definitions
+- _MAPK_: Mitogen-activated protein kinase
+- _Kinase_: Enzyme that catalyzes the transfer of phosphate groups to specific substrates
+
+#+Caption: This is a test caption
+[[../Pictures/test.png]]
+
+** BACKGROUND
+- Proliferation
+- Differentiation
+- Development
+- Transformation

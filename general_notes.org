@@ -1,0 +1,30 @@
+#+TITLE: Systems Biology General notes
+#+AUTHOR: Darpan Ganatra
+#+OPTIONS: toc:nil date:nil
+
+* Background
+** Protein Kinase
+A kinase (enzyme which catalyzes the transfer of phosephate groups from high-energy molecules to substrates) which modifies other proteins by adding phosephates to them (process of phosphorolation)
+#+CAPTION: Protein kinase (Source: Wikipedia)
+[[./Ch4_kinases.jpg]]
+
+** Mitogen-activated protein kinase (MAPK)
+- MAPKs are _protein kinases_ which are specific to serine and threonine amino acids. They're helpful in directing cellular responses to stimuli including but not limited to:
+  - Migotens
+  - Osmotic Stress
+  - Heat shock
+  - Proinflammatory cytokines
+- These proteins are only present in eukaryotes
+- Belong to the CMGC kinase groups
+- 3 MAPK familes have been characterized:
+  1. Classical MAPK (ERK)
+  2. C-JunN-terminal kinase / stress-activated protein kinase (JNK/SAPK)
+  3. p38 kinase
+- MAP kinases lie within protein kinase cascades
+- Each cascade has at least 3 enzlyes activated in series/sequence:
+  1. MAPK kinase kinase (MAPKKK) - At least 14
+  2. MAPK kinase (MAPKK) - At least 7
+  3. MAP kinase (MAPK) - At least 12
+
+* MAPK/ERK Pathway <-> MAPK-inase Pathway
+ - [[youtube:https://www.youtube.com/watch?v=r7GoZ9vFCY8][MAP-Kinase (MAPK) signalling pathway and cancer mutation]]
