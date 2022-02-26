@@ -27,4 +27,4 @@ A kinase (enzyme which catalyzes the transfer of phosephate groups from high-ene
   3. MAP kinase (MAPK) - At least 12
 
 * MAPK/ERK Pathway <-> MAPK-inase Pathway
- - [[youtube:https://www.youtube.com/watch?v=r7GoZ9vFCY8][MAP-Kinase (MAPK) signalling pathway and cancer mutation]]
+ - [[youtube:r7GoZ9vFCY8][MAP-Kinase (MAPK) signalling pathway and cancer mutation]]
